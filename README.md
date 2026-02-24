@@ -15,7 +15,7 @@
 
 - 🎓 Student passionate about both technology and health.
 - 💻 Full stack web developer specializing in the **MERN stack** and modern web technologies.
-- 🌱 Always learning, always exploring — especially in medical and tech trends.
+- 🌱 Always learning, always exploring. Especially in medical and tech trends.
 - 🤝 Community-driven and enthusiastic about making a positive impact.
 
 ---
@@ -73,7 +73,7 @@
 
 ## 📝 Quote I Live By
 
-> "Stay curious, keep building, and make a difference—one project at a time."
+> "Stay curious, keep building, and make a difference, one project at a time."
 
 ---
 
